@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "user_name": "Albert",
+        "roles": "manager",
+        "enable_settings": false
+    },
+    {
+        "id": 1,
+        "user_name": "Albert123",
+        "roles": "manager",
+        "enable_settings": true
+    },
+    {
+        "id": 2,
+        "user_name": "Albert123",
+        "roles": "employer",
+        "enable_carrer": true
+    },
+    {
+        "id": 2,
+        "user_name": "Albert123",
+        "roles": "employer",
+        "enable_carrer": false
+    }
+]
